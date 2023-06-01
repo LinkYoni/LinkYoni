@@ -1,7 +1,7 @@
 <html>
     <body>
         <h3>👋 Hi, I'm Yoni</h3>
-		<p>I'm a 18 year old developer.<br>Focused on python but I also program in other languages.</br></p>
+		<p>I'm a 19 year old developer.<br>Focused on python but I also program in other languages.</br></p>
 		<h2>🎯 Interests</h2>
         <p>&ensp;●&ensp;Backend development<br>&ensp;●&ensp;Data analysis</p>
 	<div align="center">
