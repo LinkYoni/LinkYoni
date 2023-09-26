@@ -10,7 +10,7 @@
 		<h2>🎯 Interests</h2>
 		<p>&ensp;●&ensp;Backend development<br>&ensp;●&ensp;Data analysis</p>
 		<div align="center">
-			<img src="https://api.zeew.dev/resources/discord/en/full_card/996007167175958578?profile_theme=true"></img>
+			<img src="https://api.zeew.dev/resources/discord/en/full_card/996007167175958578?profile_theme=true&invert_colors=true"></img>
 			<p><b>Card made for Zeew.dev</b></p>
 		</div>
 	</body>
